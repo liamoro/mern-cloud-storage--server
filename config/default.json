@@ -1,0 +1,7 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://root:root@cloud.r92z8lc.mongodb.net/cloud?retryWrites=true&w=majority",
+  "tokenSecretKey": "mern-cloud-storage-key",
+  "filePath": "/Users/lia/Documents/WEB_BANK/MERN_Cloud_storage/server/files",
+  "staticPath": "/Users/lia/Documents/WEB_BANK/MERN_Cloud_storage/server/static"
+}
